@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amardeep Phule</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Video Library App**
+- 🔭 I’m currently working on **Social Media App**
 
-- 🌱 I’m currently learning **Reactjs, Redux**
+- 🌱 I’m currently learning **Reactjs, Redux, Tailwind, Material-UI**
 
 - 👨‍💻 All of my projects are available at [https://amardeepphule.netlify.app/](https://amardeepphule.netlify.app/)
 
